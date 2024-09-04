@@ -12,7 +12,7 @@ An advanced, feature-rich Notepad application built in Java, designed to provide
 
 ## Installation
 
-1. **Download the .exe file** from the [Releases](https://github.com/AaryanPadole/Notepad/Notepad_Desktop) section.
+1. **Download the .exe file** from the [Releases](https://github.com/AaryanPadole/Notepad/tree/master/Notepad_Desktop) section.
 2. Run the `.exe` file to install the Notepad application on your desktop.
 
 ## Usage
