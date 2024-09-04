@@ -20,6 +20,7 @@ An advanced, feature-rich Notepad application built in Java, designed to provide
 **Customizing Your Experience:**
   - Access the settings menu to change the background color and cursor style.
   - Switch to the Oceanic Robot theme for a unique visual experience.
+    
 **Word Count Feature:**
   - The footer dynamically updates with the count of words and spaces as you type, helping you monitor your writing progress.
 - Open the application, and start editing text with your preferred customizations.
