@@ -23,6 +23,7 @@ An advanced, feature-rich Notepad application built in Java, designed to provide
     
 **Word Count Feature:**
   - The footer dynamically updates with the count of words and spaces as you type, helping you monitor your writing progress.
+    
 - Open the application, and start editing text with your preferred customizations.
 - Save your work in various formats like `.txt`, `.rtf`, etc.
 
